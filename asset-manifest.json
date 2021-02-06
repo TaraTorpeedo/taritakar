@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/taritakar/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/taritakar/static/js/main.b25c37f9.chunk.js",
-    "main.js.map": "/taritakar/static/js/main.b25c37f9.chunk.js.map",
+    "main.js": "/taritakar/static/js/main.d62369b2.chunk.js",
+    "main.js.map": "/taritakar/static/js/main.d62369b2.chunk.js.map",
     "runtime-main.js": "/taritakar/static/js/runtime-main.e19a2e98.js",
     "runtime-main.js.map": "/taritakar/static/js/runtime-main.e19a2e98.js.map",
     "static/js/2.5f887cf4.chunk.js": "/taritakar/static/js/2.5f887cf4.chunk.js",
     "static/js/2.5f887cf4.chunk.js.map": "/taritakar/static/js/2.5f887cf4.chunk.js.map",
     "index.html": "/taritakar/index.html",
-    "precache-manifest.430e227d9d18653cb25f67d6ff7a2434.js": "/taritakar/precache-manifest.430e227d9d18653cb25f67d6ff7a2434.js",
+    "precache-manifest.e0de1d4d7fa9c84c3a3640a3e85a1ce4.js": "/taritakar/precache-manifest.e0de1d4d7fa9c84c3a3640a3e85a1ce4.js",
     "service-worker.js": "/taritakar/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/taritakar/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.5f887cf4.chunk.js.LICENSE.txt": "/taritakar/static/js/2.5f887cf4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e19a2e98.js",
     "static/js/2.5f887cf4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b25c37f9.chunk.js"
+    "static/js/main.d62369b2.chunk.js"
   ]
 }
