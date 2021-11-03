@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78c5a811461e21e028de38e326c77ebf",
+    "revision": "1fb7216e8fb3dcda5179158aec5e6239",
     "url": "/taritakar/index.html"
   },
   {
-    "revision": "0cedc1d380574fa517cf",
+    "revision": "d934dd3334a91d17fc03",
     "url": "/taritakar/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taritakar/static/js/2.5f887cf4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cedc1d380574fa517cf",
-    "url": "/taritakar/static/js/main.2a7db002.chunk.js"
+    "revision": "d934dd3334a91d17fc03",
+    "url": "/taritakar/static/js/main.805fc62b.chunk.js"
   },
   {
     "revision": "a0b0b944ca0e05419ed4",
